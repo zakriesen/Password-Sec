@@ -2,9 +2,9 @@
 
 ## Overview:
 This MATLAB script evaluates the strength of a password based on key security criteria, including:
-    - Password length
-    - Presence of uppercase and lowercase letters
-    - Use of numbers and special characters
+- Password length
+- Presence of uppercase and lowercase letters
+- Use of numbers and special characters
     
 It provides a score (0-5) and feedback to help users create stronger passwords.
 
@@ -16,9 +16,9 @@ Running this program requires MATLAB
 
 ## Limitations 
 This function provides a very basic estimate of password strength, but in no way guarentees security.
-    - No checks for common passwords.
-    - Only considers 4 features, many more would be needed if used in a real security application.
-    - No dynamic feedback based on what the user types 
+- No checks for common passwords.
+- Only considers 4 features, many more would be needed if used in a real security application.
+- No dynamic feedback based on what the user types 
 
 ## Ethical Considerations and Responsible Use
   - This code could be modified so that it records the passwords entered. This code should only be run if it has
