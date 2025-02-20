@@ -1,6 +1,6 @@
 # Password-Sec
 
-## Overview:
+## Overview
 This MATLAB script evaluates the strength of a password based on key security criteria, including:
 - Password length
 - Presence of uppercase and lowercase letters
